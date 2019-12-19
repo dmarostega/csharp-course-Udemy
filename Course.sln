@@ -17,11 +17,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-Intermediate-Abstrac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-Intermediate-Exceptions", "Course-Intermediate-Exceptions\Course-Intermediate-Exceptions.csproj", "{D6270A38-6EC1-402F-968F-6F7C26367062}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course-13-Arquivos", "Course-13-Arquivos\Course-13-Arquivos.csproj", "{DBAF665E-3ECD-408F-910B-0BD852605151}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-13-Arquivos", "Course-13-Arquivos\Course-13-Arquivos.csproj", "{DBAF665E-3ECD-408F-910B-0BD852605151}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course-13.1-Directory_DirectoryInfo", "Course-13.1-Directory_DirectoryInfo\Course-13.1-Directory_DirectoryInfo.csproj", "{1B610A92-D791-4D64-84B5-DD636ACC90CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-13.1-Directory_DirectoryInfo", "Course-13.1-Directory_DirectoryInfo\Course-13.1-Directory_DirectoryInfo.csproj", "{1B610A92-D791-4D64-84B5-DD636ACC90CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course-13-ExercicioFixacao", "Course-13-ExercicioFixacao\Course-13-ExercicioFixacao.csproj", "{2A978D5D-15A9-4F0E-A861-1BEFEF4EE43B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Course-13-ExercicioFixacao", "Course-13-ExercicioFixacao\Course-13-ExercicioFixacao.csproj", "{2A978D5D-15A9-4F0E-A861-1BEFEF4EE43B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course-14_Interfaces", "Course-14_Interfaces\Course-14_Interfaces.csproj", "{D6EC5611-9AE9-41EC-8FD0-03C4959789A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Course-14_Interface-ExercicioDeFixacao", "Course-14_Interface-ExercicioDeFixacao\Course-14_Interface-ExercicioDeFixacao.csproj", "{E2030517-E5FA-4342-92B7-BBD3797B71EC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +73,14 @@ Global
 		{2A978D5D-15A9-4F0E-A861-1BEFEF4EE43B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A978D5D-15A9-4F0E-A861-1BEFEF4EE43B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A978D5D-15A9-4F0E-A861-1BEFEF4EE43B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6EC5611-9AE9-41EC-8FD0-03C4959789A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6EC5611-9AE9-41EC-8FD0-03C4959789A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6EC5611-9AE9-41EC-8FD0-03C4959789A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6EC5611-9AE9-41EC-8FD0-03C4959789A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2030517-E5FA-4342-92B7-BBD3797B71EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2030517-E5FA-4342-92B7-BBD3797B71EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2030517-E5FA-4342-92B7-BBD3797B71EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2030517-E5FA-4342-92B7-BBD3797B71EC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
