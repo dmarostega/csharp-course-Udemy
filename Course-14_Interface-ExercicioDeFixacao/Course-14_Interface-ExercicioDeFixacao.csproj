@@ -6,4 +6,9 @@
     <RootNamespace>Course_14_Interface_ExercicioDeFixacao</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>

@@ -6,7 +6,7 @@ namespace Course_14_Interface_ExercicioDeFixacao
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
         }
     }
 }
